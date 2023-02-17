@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/css/main.d8e89155.css",
-    "main.js": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/js/main.ae1af667.js",
-    "static/media/Yekan.ttf": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
-    "static/media/religious.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/religious.6731f4f9eb5390e6dda29235f2f0ceef.svg",
-    "static/media/food.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/food.f176a86bcf8b23abbc6c1509a9fb2986.svg",
-    "static/media/sports.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/sports.ca4d0234c5a4dbcc8b403ae5c64a6e0f.svg",
-    "static/media/cultural.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/cultural.9cbf2d9685b0d9364854cb26f6303587.svg",
-    "static/media/question.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/question.b3042d4a8dec6cc2cad1928ed8170350.svg",
-    "static/media/math.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/math.c13b3cbe5314b1e82dce6c6724d38a0a.svg",
-    "index.html": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/index.html",
-    "static/media/music.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/music.80e53e351c2ced125117cae0e53188b8.svg",
-    "static/media/historical.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/historical.7a65ae57a422d98353c6ec81742d0c1e.svg",
-    "static/media/technology.svg": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/technology.0ca672c82139fec0b38f938a08b42206.svg",
-    "main.d8e89155.css.map": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/css/main.d8e89155.css.map",
-    "main.ae1af667.js.map": "/git%20remote%20add%20origin%20https://github.com/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/js/main.ae1af667.js.map"
+    "main.css": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/css/main.514861ab.css",
+    "main.js": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/js/main.3c6b2490.js",
+    "static/media/Yekan.ttf": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
+    "static/media/religious.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/religious.6731f4f9eb5390e6dda29235f2f0ceef.svg",
+    "static/media/food.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/food.f176a86bcf8b23abbc6c1509a9fb2986.svg",
+    "static/media/sports.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/sports.ca4d0234c5a4dbcc8b403ae5c64a6e0f.svg",
+    "static/media/cultural.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/cultural.9cbf2d9685b0d9364854cb26f6303587.svg",
+    "static/media/question.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/question.b3042d4a8dec6cc2cad1928ed8170350.svg",
+    "static/media/math.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/math.c13b3cbe5314b1e82dce6c6724d38a0a.svg",
+    "static/media/music.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/music.80e53e351c2ced125117cae0e53188b8.svg",
+    "index.html": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/index.html",
+    "static/media/historical.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/historical.7a65ae57a422d98353c6ec81742d0c1e.svg",
+    "static/media/technology.svg": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/media/technology.0ca672c82139fec0b38f938a08b42206.svg",
+    "main.514861ab.css.map": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/css/main.514861ab.css.map",
+    "main.3c6b2490.js.map": "/MahdiRazzaghi808/quizApp-react-bootstrap.git/static/js/main.3c6b2490.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8e89155.css",
-    "static/js/main.ae1af667.js"
+    "static/css/main.514861ab.css",
+    "static/js/main.3c6b2490.js"
   ]
 }
