@@ -1,5 +1,5 @@
 import React from 'react'
-import { Routes, Route } from 'react-router-dom';
+import { Routes, Route ,Navigate } from 'react-router-dom';
 
 import MainPage from '../mainPage/MainPage';
 import Lesson from '../lesson/Lesson';
@@ -11,6 +11,8 @@ function Landing() {
             <Routes>
                 <Route path="/" element={<MainPage />} />
                 <Route path="/lesson/:name" element={<Lesson />} />
+                <Route path="/*" element={<Navigate to="/"/>} />
+
             </Routes>
             <Footer />
         </>
