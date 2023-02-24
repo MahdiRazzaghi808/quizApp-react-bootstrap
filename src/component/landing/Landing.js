@@ -9,9 +9,9 @@ function Landing() {
     return (
         <>
             <Routes>
-                <Route path="/gh-pages-url" element={<MainPage />} />
-                <Route path="gh-pages-url/lesson/:name" element={<Lesson />} />
-                <Route path="/*" element={<Navigate to="/gh-pages-url"/>} />
+                <Route path="/" element={<MainPage />} />
+                <Route path="/lesson/:name" element={<Lesson />} />
+                <Route path="/*" element={<Navigate to="/"/>} />
 
             </Routes>
             <Footer />
