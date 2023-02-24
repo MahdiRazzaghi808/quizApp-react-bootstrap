@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/quizApp-react-bootstrap/static/css/main.0be4a95c.css",
-    "main.js": "/quizApp-react-bootstrap/static/js/main.49516e22.js",
+    "main.js": "/quizApp-react-bootstrap/static/js/main.affa3e13.js",
     "static/media/Yekan.ttf": "/quizApp-react-bootstrap/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
     "static/media/religious.svg": "/quizApp-react-bootstrap/static/media/religious.6731f4f9eb5390e6dda29235f2f0ceef.svg",
     "static/media/food.svg": "/quizApp-react-bootstrap/static/media/food.f176a86bcf8b23abbc6c1509a9fb2986.svg",
@@ -9,15 +9,15 @@
     "static/media/cultural.svg": "/quizApp-react-bootstrap/static/media/cultural.9cbf2d9685b0d9364854cb26f6303587.svg",
     "static/media/question.svg": "/quizApp-react-bootstrap/static/media/question.b3042d4a8dec6cc2cad1928ed8170350.svg",
     "static/media/math.svg": "/quizApp-react-bootstrap/static/media/math.c13b3cbe5314b1e82dce6c6724d38a0a.svg",
-    "static/media/music.svg": "/quizApp-react-bootstrap/static/media/music.80e53e351c2ced125117cae0e53188b8.svg",
     "index.html": "/quizApp-react-bootstrap/index.html",
+    "static/media/music.svg": "/quizApp-react-bootstrap/static/media/music.80e53e351c2ced125117cae0e53188b8.svg",
     "static/media/historical.svg": "/quizApp-react-bootstrap/static/media/historical.7a65ae57a422d98353c6ec81742d0c1e.svg",
     "static/media/technology.svg": "/quizApp-react-bootstrap/static/media/technology.0ca672c82139fec0b38f938a08b42206.svg",
     "main.0be4a95c.css.map": "/quizApp-react-bootstrap/static/css/main.0be4a95c.css.map",
-    "main.49516e22.js.map": "/quizApp-react-bootstrap/static/js/main.49516e22.js.map"
+    "main.affa3e13.js.map": "/quizApp-react-bootstrap/static/js/main.affa3e13.js.map"
   },
   "entrypoints": [
     "static/css/main.0be4a95c.css",
-    "static/js/main.49516e22.js"
+    "static/js/main.affa3e13.js"
   ]
 }
