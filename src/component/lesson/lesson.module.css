@@ -1,8 +1,11 @@
-.choose{
+.choose {
     width: 90%;
     cursor: pointer;
     transition: all 0.2s linear;
 }
-.choose:hover{
-background: #7e6df3;
+
+@media (min-width: 992px) {
+    .choose:hover {
+        background: #7e6df3;
+    }
 }

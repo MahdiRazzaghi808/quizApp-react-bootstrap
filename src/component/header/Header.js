@@ -13,7 +13,7 @@ const Header = () => {
                     <Col> <h1>آزمون ها</h1> </Col>
 
                     <Col className="d-flex flex-column align-items-center">
-                        <div>امتیاز شما: {(score).toFixed(2)}</div>
+                        <div>امتیاز شما: <span  style={{direction:"ltr",  unicodeBidi: "bidi-override"}}>{(score).toFixed(2)}</span></div>
                         <div>آزمون های پایان یافته : {count}</div>
                     </Col>
                 </Row>

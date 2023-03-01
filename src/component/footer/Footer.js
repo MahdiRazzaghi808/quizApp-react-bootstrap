@@ -12,6 +12,7 @@ const Footer = () => {
         <div className='py-4 text-white' style={{ background: "#533b7c" }}>
             <Container>
                 <Row>
+                    
                     <Col md={6} className="mb-5 mb-md-0">
                         <h2 className='h3 mb-4'>درباره ما</h2>
                         <p className='h6' style={{ textAlign: "justify" }}>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد</p>
