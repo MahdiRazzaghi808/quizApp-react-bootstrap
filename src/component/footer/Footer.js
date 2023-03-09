@@ -9,7 +9,7 @@ import { FaYoutube } from "react-icons/fa";
 
 const Footer = () => {
     return (
-        <div className='py-4 text-white' style={{ background: "#533b7c" }}>
+        <div className='py-4 text-white' style={{ background: "#101827" }}>
             <Container>
                 <Row>
                     

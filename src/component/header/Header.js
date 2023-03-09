@@ -7,14 +7,14 @@ const Header = () => {
     const score = state.score;
     const count = state.complete;
     return (
-        <div className="text-white py-3" style={{ background: "#533b7c" }}>
+        <div className="text-white py-3 shadow  bg-body-tertiary" style={{ background: "#101827" }}>
             <Container>
                 <Row>
                     <Col> <h1>آزمون ها</h1> </Col>
 
                     <Col className="d-flex flex-column align-items-center">
-                        <div>امتیاز شما: <span  style={{direction:"ltr",  unicodeBidi: "bidi-override"}}>{(score).toFixed(2)}</span></div>
-                        <div>آزمون های پایان یافته : {count}</div>
+                        <div>امتیاز شما: <span className="badge bg-secondary"  style={{direction:"ltr",  unicodeBidi: "bidi-override"}}>{(score).toFixed(2)}</span></div>
+                        <div>آزمون های پایان یافته : <span className="badge bg-secondary"> {count}</span></div>
                     </Col>
                 </Row>
             </Container>

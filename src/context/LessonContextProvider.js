@@ -19,7 +19,8 @@ const scoreReducer = (state, action) => {
                         correct: 0,
                         false: 0,
                         score: 0,
-                        complete: false
+                        complete: false,
+                        continue: false
                     }
                 )
             }
@@ -28,6 +29,7 @@ const scoreReducer = (state, action) => {
         case 'INCREASE':
             const stateIndex = state.lessonStarted.findIndex(item => item.name === action.title)
             state.lessonStarted[stateIndex].index++
+            state.lessonStarted[stateIndex].continue = true
             return { ...state }
 
         case 'CORRECT':
@@ -47,6 +49,8 @@ const scoreReducer = (state, action) => {
         case 'COMPLETE':
             const completeIndex = state.lessonStarted.findIndex(item => item.name === action.title)
             state.lessonStarted[completeIndex].complete = true
+            state.lessonStarted[completeIndex].continue = false
+
             state.complete++
             return { ...state }
 
