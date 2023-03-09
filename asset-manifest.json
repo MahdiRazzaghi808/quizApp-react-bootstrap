@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/quizApp-react-bootstrap/static/css/main.30d196ef.css",
-    "main.js": "/quizApp-react-bootstrap/static/js/main.b0ab2b8b.js",
+    "main.css": "/quizApp-react-bootstrap/static/css/main.23bf3015.css",
+    "main.js": "/quizApp-react-bootstrap/static/js/main.6cfe207e.js",
     "static/media/Yekan.ttf": "/quizApp-react-bootstrap/static/media/Yekan.012789e6e9f8b9a4929f.ttf",
-    "static/media/religious.svg": "/quizApp-react-bootstrap/static/media/religious.6731f4f9eb5390e6dda29235f2f0ceef.svg",
-    "static/media/food.svg": "/quizApp-react-bootstrap/static/media/food.f176a86bcf8b23abbc6c1509a9fb2986.svg",
-    "static/media/sports.svg": "/quizApp-react-bootstrap/static/media/sports.ca4d0234c5a4dbcc8b403ae5c64a6e0f.svg",
-    "static/media/cultural.svg": "/quizApp-react-bootstrap/static/media/cultural.9cbf2d9685b0d9364854cb26f6303587.svg",
-    "static/media/question.svg": "/quizApp-react-bootstrap/static/media/question.b3042d4a8dec6cc2cad1928ed8170350.svg",
-    "static/media/math.svg": "/quizApp-react-bootstrap/static/media/math.c13b3cbe5314b1e82dce6c6724d38a0a.svg",
-    "static/media/music.svg": "/quizApp-react-bootstrap/static/media/music.80e53e351c2ced125117cae0e53188b8.svg",
+    "static/media/religious.svg": "/quizApp-react-bootstrap/static/media/religious.ab4bfe96043f9d5ebbe5ae80edb3ada9.svg",
+    "static/media/food.svg": "/quizApp-react-bootstrap/static/media/food.08c084fc52dd4bbcbec57b25b0f0d9b9.svg",
+    "static/media/cultural.svg": "/quizApp-react-bootstrap/static/media/cultural.88eeaa8a89498a993edf189f046d19cd.svg",
+    "static/media/sports.svg": "/quizApp-react-bootstrap/static/media/sports.f1a76f4c7976c643ea6ccf877312da09.svg",
+    "static/media/question.svg": "/quizApp-react-bootstrap/static/media/question.1708841072f4aaa7038926a6737a38f3.svg",
+    "static/media/math.svg": "/quizApp-react-bootstrap/static/media/math.f55b8c5922ce14dd36aeb92efe434461.svg",
+    "static/media/music.svg": "/quizApp-react-bootstrap/static/media/music.cf3ce86178d288c71ce984919d84e236.svg",
     "index.html": "/quizApp-react-bootstrap/index.html",
-    "static/media/historical.svg": "/quizApp-react-bootstrap/static/media/historical.7a65ae57a422d98353c6ec81742d0c1e.svg",
-    "static/media/technology.svg": "/quizApp-react-bootstrap/static/media/technology.0ca672c82139fec0b38f938a08b42206.svg",
-    "main.30d196ef.css.map": "/quizApp-react-bootstrap/static/css/main.30d196ef.css.map",
-    "main.b0ab2b8b.js.map": "/quizApp-react-bootstrap/static/js/main.b0ab2b8b.js.map"
+    "static/media/technology.svg": "/quizApp-react-bootstrap/static/media/technology.bebd19daf41fd261865d0162e5442ab3.svg",
+    "static/media/historical.svg": "/quizApp-react-bootstrap/static/media/historical.b9ba7377f45e7465133fad05b569d12f.svg",
+    "main.23bf3015.css.map": "/quizApp-react-bootstrap/static/css/main.23bf3015.css.map",
+    "main.6cfe207e.js.map": "/quizApp-react-bootstrap/static/js/main.6cfe207e.js.map"
   },
   "entrypoints": [
-    "static/css/main.30d196ef.css",
-    "static/js/main.b0ab2b8b.js"
+    "static/css/main.23bf3015.css",
+    "static/js/main.6cfe207e.js"
   ]
 }
